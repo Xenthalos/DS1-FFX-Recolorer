@@ -3,3 +3,5 @@ DS1 FFX Recolorer is a C# tool that opens and modifies XML files, intended to be
 To use, drag and drop your FFX file on FXMLR.exe, open the XML with this tool, change the colors of the effects as desired, save, and drop the new XML back onto FXMLR.exe.
 
 This tool is currently in early alpha. I plan to add texture previews for the effects, clean up the interface for certain ActionData types that don't use things like the DS1RData values, and document blend modes for them.
+
+<img width="434" height="418" alt="image" src="https://github.com/user-attachments/assets/bcf09aa9-057b-498f-8c2f-14680d5f1482" />
